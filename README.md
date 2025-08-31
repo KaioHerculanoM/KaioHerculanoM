@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Kaio
 
-<!--
-**KaioHerculanoM/KaioHerculanoM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Faculdade Cruzeiro do Sul  
+💻 Em transição de carreira para a área de **Tecnologia da Informação**  
+🚀 Atualmente aprendendo **Java, SQL, HTML, CSS e Git**  
+📚 Buscando oportunidades de estágio em **desenvolvimento de software**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 O que você vai encontrar aqui
+- Projetos acadêmicos da faculdade  
+- Exercícios e práticas de lógica de programação  
+- Pequenos projetos pessoais para treinar minhas habilidades  
+
+---
+
+## 📫 Como me encontrar
+- [LinkedIn](https://www.linkedin.com/in/kaio-herculano-3a6212381/)  
